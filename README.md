@@ -1,3 +1,8 @@
-# security_baseline
+# securitybaseline
 
-AWS Security Baseline
+Hi there
+
+## Version
+
+v0.1.0
+
