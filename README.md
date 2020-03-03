@@ -1,8 +1,3 @@
 # securitybaseline
 
-Hi there
-
-## Version
-
-v0.1.0
-
+Security baseline for all AmTrust AWS accounts.
